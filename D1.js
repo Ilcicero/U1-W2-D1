@@ -88,4 +88,7 @@ console.log(sottraggo)
 let name1 = "john"
 let name2 = "John"
 console.log(name1 !== name2)
-/* SCRIVI QUI LA TUA RISPOSTA */
+
+// name2 = "john"
+// console.log(name1 === name2)
+/* non ho capito l'extra.....*/
