@@ -33,14 +33,16 @@ Infine dietro il fienile, abbiamo un caseggiato vuoto, lo abbiamo chiamato null 
 */
 
 /*ESERCIZIO 2 */
-let myName = 'vincenzo'
-console.log("il mio nome è",myName)
+
 
 
 //  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+let myName = 'vincenzo'
+console.log("il mio nome è",myName) 
+*/
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
