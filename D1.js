@@ -15,8 +15,8 @@ REGOLE
 Stringa "" '' `
 Numerico 1 2 3 4
 Booleano true false
-null 
-undefined
+null - assenza di un valore
+undefined - valore non definito
 
 Immaginiamo di essere proprietari di una fattoria con vari animali.
 Abbiamo i piccioni che vivono dentro un  recinto  con una rete che li tiene li per non farli scappare. La rete sarà indicata  con dei simboli chiamati APICI "" '' `. 
